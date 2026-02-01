@@ -29,4 +29,4 @@ I built this project to practice **Java, OOP concepts, arrays, and ArrayLists**.
 
 ---
 
-## Project structure
+
